@@ -2,11 +2,18 @@
 Code of EMNLP 2022 Paper "Improving Complex Knowledge Base Answering via Question-to-Action and Question-to-Question Alignment"
 
 ## Dependencies:
-- torch
-- transformers
-- pytorch_pretrained_bert
-- nltk
-- flask
+- Flask==1.1.2
+- nltk==3.5
+- numpy==1.19.4
+- Pattern==3.6
+- python_Levenshtein==0.20.7
+- pytorch_pretrained_bert==0.6.2
+- requests==2.27.1
+- sacrebleu==1.5.1
+- tensorboardX==2.5.1
+- torch==1.9.0
+- transformers==4.9.2
+
 
 ## Steps to Reproduce Results
 
