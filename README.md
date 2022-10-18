@@ -1,5 +1,5 @@
 # ALCQA
-Code of Paper Improving Complex Knowledge Base Answering via Question-to-Action and Question-to-Question Alignment
+Code of EMNLP 2022 Paper "Improving Complex Knowledge Base Answering via Question-to-Action and Question-to-Question Alignment"
 
 ## Dependencies:
 - torch
